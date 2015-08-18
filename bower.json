@@ -1,0 +1,22 @@
+{
+  "name": "Free-file-icons",
+  "version": "1.0.3",
+  "homepage": "https://github.com/victor-perez/Free-file-icons",
+  "authors": [
+    "Teambox",
+    "Victor Perez <js@victor-perez.nl>"
+  ],
+  "description": "Platform-agnostic icons for audio, image, programming and office files",
+  "keywords": [
+    "file",
+    "icons"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
